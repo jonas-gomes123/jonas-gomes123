@@ -19,5 +19,5 @@
 ##
   
 <div style="display: inline_block" align='center'>
-  <a href = "mailto:jotajonas09@outlook.com"><img src="https://www.worksonwoa.com/icons/MicrosoftOutlook.png" target="_blank" height="20px"></a> 
+  <a href = "mailto:jotajonas09@outlook.com"><strong>Email para contato:</strong><img src="https://www.worksonwoa.com/icons/MicrosoftOutlook.png" target="_blank" height="40px"></a> 
 </div>
