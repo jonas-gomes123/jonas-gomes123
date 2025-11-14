@@ -10,15 +10,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-gomes123&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- ##
-  
-<div style="display: inline_block" align='center'><br>
-  <img align="center" alt="Near-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-</div>
-  
 ##
   
-<div style="display: inline_block" align='center' text-align='center' height='40px'>
-  <a href = "mailto:jotajonas09@outlook.com"><strong>Email para contato:</strong><img src="https://www.worksonwoa.com/icons/MicrosoftOutlook.png" target="_blank" height="40px"></a> 
+<div style="display: inline_block" align='center' text-align='center' height='40px' display='flex'>
+  <a href = "mailto:jotajonas09@outlook.com">
+      <strong>Email para contato:</strong>
+      <img src="https://www.worksonwoa.com/icons/MicrosoftOutlook.png" target="_blank" height="40px">
+  </a> 
 </div>
