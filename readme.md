@@ -1,7 +1,7 @@
-### Olá sou o Alex Almeida👋
+### Olá, eu sou Jonas Gomes de Lima Neto
 
-- 🔭 Back-End Developer..
-- 🌱 Estudando Javascript, React, Node.js, Java e Spring Boot...
+- Aluno do ensino médio técnico do Senac/RN em Mossoró
+- Estudando Javascript, React, Node.js, etc.
 
 <div align="center">
   <a href="https://github.com/alex-almeida12">
@@ -18,6 +18,6 @@
   
 ##
   
-<div style="display: inline_block" align='center' text-align='center'>
+<div style="display: inline_block" align='center' text-align='center' height='40px'>
   <a href = "mailto:jotajonas09@outlook.com"><strong>Email para contato:</strong><img src="https://www.worksonwoa.com/icons/MicrosoftOutlook.png" target="_blank" height="40px"></a> 
 </div>
