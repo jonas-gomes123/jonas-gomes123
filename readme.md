@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/alex-almeida12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alex-almeida12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-almeida12&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-gomes123&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-gomes123&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  ##
@@ -18,6 +18,6 @@
   
 ##
   
-<div style="display: inline_block" align='center'>
+<div style="display: inline_block" align='center' text-align='center'>
   <a href = "mailto:jotajonas09@outlook.com"><strong>Email para contato:</strong><img src="https://www.worksonwoa.com/icons/MicrosoftOutlook.png" target="_blank" height="40px"></a> 
 </div>
